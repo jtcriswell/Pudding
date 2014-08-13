@@ -10,9 +10,7 @@ integrity proofs for the KCoFI system.  This is an enhanced version of the
 code found in Appendix B of John Criswell's dissertation.  It includes
 finished versions of the four primary CFI theorems from the original KCoFI
 paper (Theorems cfisafe, NXText, Transcfisafe, and TranNXText).  Additionally,
-it contains some proofs for the Virtual Ghost system (in VG.v) as well as
-some incomplete theorems for proving a tighter control-flow integrity theorem
-for KCoFI (namely Theorems cfisafe2 and Transcfisafe2).
+it contains some proofs for the Virtual Ghost system (in VG.v).
 
 The primary theorems are in SVAOS.v and Multi.v.
 
